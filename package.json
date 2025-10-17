@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/mdn/browser-compat-data#readme",
   "devDependencies": {
-    "@ddbeck/mdn-content-inventory": "^0.2.20240621",
+    "@ddbeck/mdn-content-inventory": "^0.2.20250925",
     "@desertnet/html-parser": "~1.0.1",
     "@eslint/compat": "^1.2.6",
     "@eslint/eslintrc": "^3.2.0",
